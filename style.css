@@ -1,0 +1,62 @@
+body {
+            background-image: url(https://vignette.wikia.nocookie.net/freddy-fazbears-pizza/images/a/a1/Www.GIFCreator.me_I0sBck-0.gif/revision/latest?cb=20170202100823);
+            background-repeat: no-repeat;
+            background-size: cover;
+            font-family: 'Lucida Sans Unicode', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .vid {
+            text-align: center;
+            padding: 20px;
+            border-radius: 0px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+            background-color: #fff;
+            max-width: 400px;
+            width: 50%;
+        }
+        .videos {
+            text-align: center;
+            padding: 26px;
+            border-radius: 0px;
+            background-color: #fff;
+            max-width: 300px;
+            width: 50%;
+        }
+        .video {
+            margin-bottom: 20px;
+        }
+        .video img {
+            max-width: 100%;
+        height: left;
+        }
+        .profile {
+            border-radius: 60%;
+            max-width: 100%;
+            height: auto;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .links a {
+            text-decoration: none;
+            color: #f00;
+            margin: 0 10px;
+            font-size: 20px;
+        }
+        #favicon {
+            width: 32px;
+            height: 32px;
+}
